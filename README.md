@@ -1,2 +1,2 @@
 # java_challenge
-Programming Challenges to Code Better
+This reppsitory contains some codes I have made in Java in order to increase my skills.
