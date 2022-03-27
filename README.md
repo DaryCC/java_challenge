@@ -1,2 +1,2 @@
 # java_challenge
-This reppsitory contains some codes I have made in Java in order to increase my coding skills.
+This reppsitory contains some coding exercises.
